@@ -5,9 +5,8 @@
 * submissions.csv has the submissions we gathered
     * last two columns ("Original_Submission" and "Original_Subreddit") indicate whether the submission was a crosspost
 
-## General Stats:
+## Some Stats!
 165,061 total comments  
-By subreddit  
 |Subreddit|# of Comments|  
 |-----|-----|  
 |antivaxxers|3011|  
@@ -24,7 +23,6 @@ By subreddit
 |vaccines|382|  
 
 10,386 unique submissions (including submissions from r/nonewnormal)  
-By subreddit  
 |Subreddit|# of Submissions|  
 |-----|-----|  
 |antivaxxers|204|  
